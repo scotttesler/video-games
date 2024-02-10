@@ -45,6 +45,7 @@ Under consideration:
 - [ ] Kirby and the Forgotten Land
 - [ ] Link's Awakening (Switch remake)
 - [ ] Super Metroid
+- [ ] Donkey Kong Country: Tropical Freeze (Switch remake)
 - [ ] Hollow Knight
 - [ ] Cocoon
 - [ ] Cyberpunk 2077
@@ -58,6 +59,8 @@ Under consideration:
 
 Video games to check out
 
+- [ ] Pizza Tower
+  - https://youtu.be/kab-fOsrq_Q
 - [ ] Sports Story
 - [ ] Viewfinder
 - [ ] Cocoon
@@ -151,3 +154,11 @@ Video games to check out
 - [x] Final Fantasy XV
 - [x] Spelunky
 - [x] Scarlet Nexus (https://youtu.be/nlr3jNdXWZs)
+
+# Misc
+
+- https://ce.iys.io
+
+  > Challenge Enthusiasts
+  > Tackling the most challenging games on Steam.
+  > The most comprehensive list of challenging games, graded by their difficulty, and neatly tracked on this nifty little website.
