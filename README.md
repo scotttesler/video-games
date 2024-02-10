@@ -37,7 +37,7 @@ Under consideration:
 - [ ] Mega Man Maverick Hunter X
   - This is a remake of Mega Man X for the PSP.
 - [ ] Mega Man 11
-  - @just-joshing's favorite game of all time 😯
+  - Many people's favorite game of all time 😯.
 - [ ] Mega Man Legends 2
 - [ ] Mega Man Powered Up
 - [ ] Paper Mario: Thousand Year Door (Switch remake)
