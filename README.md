@@ -31,8 +31,6 @@ Under consideration:
 
 # Video games to play in 2024
 
-- [x] Luigi's Mansion 3
-- [x] Pikmin 4
 - [ ] Mega Man X
 - [ ] Mega Man Maverick Hunter X
   - This is a remake of Mega Man X for the PSP.
@@ -50,6 +48,11 @@ Under consideration:
 - [ ] Hollow Knight
 - [ ] Cocoon
 - [ ] Cyberpunk 2077
+
+---
+
+- [x] Luigi's Mansion 3
+- [x] Pikmin 4
 
 # Video games to check out
 
@@ -116,6 +119,7 @@ Video games to check out
 - [ ] Mushihime-sama Futari Black Label
 - [ ] Wild Hearts
 
+---
 
 - [x] Dave the Diver (https://youtu.be/284XKh1lFHM)
 - [x] Thumper
