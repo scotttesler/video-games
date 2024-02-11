@@ -1,4 +1,4 @@
-# ROM Hacks
+# ROM hacks
 
 - https://metroidconstruction.com
 - https://reddit.com/r/metroidconstruction/
@@ -16,7 +16,7 @@
 
 ## Misc
 
-- https://reddit.com/r/Metroid/comments/g3xkp7/best_metroid_series_experience/
+- https://archive.ph/LU8Os
   - https://romhacking.net/hacks/3211/
 
     > this hack aims to make the gameplay experience of Super Metroid as closely as possible to that to Metroid Zero Mission and Metroid Fusion in both controls and physics
