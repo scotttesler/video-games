@@ -1,14 +1,15 @@
 **NOTE:** everything listed here is for research purposes only.
 
-#### Retroid Pocket 4 Pro
+# Retroid Pocket 4 Pro
 
-- Video: [Retroid Pocket 4 Pro testing Switch games](https://youtube.com/live/_yDRgbDxsCY)
+- Video: [The Retroid Pocket 4 Pro is good! (I like it)](https://youtu.be/IgwtAxk3DsY)
 
 **Pros:**
 
 - HDMI out.
+- Switch 🤫
 
-#### Anbernic RG35XX-H
+# Anbernic RG35XX-H
 
 - Better OS: [Koriki](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io)
   - "Batocera-based OS" 🤷‍♂️
@@ -16,9 +17,9 @@
 
 **Pros:**
 
-  - HDMI out.
+- HDMI out.
 
-#### Miyoo Mini Plus
+# Miyoo Mini Plus
 
 - https://keepretro.com/products/miyoo-mini-plus
 
