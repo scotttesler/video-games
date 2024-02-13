@@ -4,7 +4,6 @@
 # Retroid Pocket 4 Pro
 
 - https://goretroid.com/products/retroid-pocket-4-handheld ($200)
-
 - Video: [The Retroid Pocket 4 Pro is good! (I like it)](https://youtu.be/IgwtAxk3DsY)
 
 ## Pros
