@@ -1,16 +1,6 @@
 > [!NOTE]
 > Everything listed here is for research purposes only.
 
-# Retroid Pocket 4 Pro
-
-- https://goretroid.com/products/retroid-pocket-4-handheld ($200)
-- Video: [The Retroid Pocket 4 Pro is good! (I like it)](https://youtu.be/IgwtAxk3DsY)
-
-## Pros
-
-- HDMI out.
-- Switch 🤫
-
 ## Cons
 
 - Expensive.
@@ -34,3 +24,13 @@
 ## Cons
 
 - No HDMI out.
+
+# Retroid Pocket 4 Pro
+
+- https://goretroid.com/products/retroid-pocket-4-handheld ($200)
+- Video: [The Retroid Pocket 4 Pro is good! (I like it)](https://youtu.be/IgwtAxk3DsY)
+
+## Pros
+
+- HDMI out.
+- Switch 🤫
