@@ -1,6 +1,3 @@
-> [!NOTE]
-> Everything listed here is for research purposes only.
-
 # Anbernic RG35XX-H
 
 - https://anbernic.com/products/rg35xx-h ($70)
