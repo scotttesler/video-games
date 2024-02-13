@@ -21,7 +21,7 @@ https://goretroid.com/products/retroid-pocket-4-handheld ($200)
 https://anbernic.com/products/rg35xx-h ($70)
 
 - Better OS: [Koriki](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io)
-  - "Batocera-based OS" 🤷‍♂️
+  - [Batocera linux](https://batocera.org)-based OS.
   - Video: [The RG35XX-H (and Plus) just became AMAZING! // New Custom Firmware!](https://youtu.be/Lm5W3Y1Ud4o)
 
 ## Pros
