@@ -162,3 +162,8 @@ Video games to check out
   > Challenge Enthusiasts
   > Tackling the most challenging games on Steam.
   > The most comprehensive list of challenging games, graded by their difficulty, and neatly tracked on this nifty little website.
+
+---
+
+> [!NOTE]
+> Everything in this repo is for educational or research purposes only.
