@@ -49,6 +49,7 @@ Under consideration:
 - [ ] Hollow Knight
 - [ ] Cocoon
 - [ ] Cyberpunk 2077
+- [ ] Resident Evil 4 (PS5)
 
 ---
 
