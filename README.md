@@ -122,6 +122,7 @@ Video games to check out
 - [ ] Nioh 2 (https://youtu.be/e8kYQ51TqCI)
 - [ ] Mushihime-sama Futari Black Label
 - [ ] Wild Hearts
+- [ ] Lies of P
 
 ---
 
