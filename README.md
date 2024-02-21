@@ -63,6 +63,8 @@ Video games to check out
 - [ ] Pizza Tower
   - https://youtu.be/kab-fOsrq_Q
 - [ ] Sports Story
+- [ ] [Pocket Card Jockey:Ride On!](https://nintendo.com/us/store/products/pocket-card-jockey-ride-on-switch/)
+- [ ] [Contra: Operation Gulaga](https://www.konami.com/games/contra/og/us/en/)
 - [ ] Viewfinder
 - [ ] Cocoon
 - [ ] Visions of Mana
