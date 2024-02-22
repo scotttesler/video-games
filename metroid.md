@@ -10,6 +10,7 @@
 
 ## New games
 
+- https://retrododo.com/best-metroid-rom-hacks
 - [Hyper Metroid](https://metroidconstruction.com/hack.php?id=294)
 - [Super Duper Metroid](https://metroidconstruction.com/hack.php?id=671)
 - [Super Metroid: Ascent](https://metroidconstruction.com/hack.php?id=410)
