@@ -39,7 +39,7 @@ Under consideration:
 - [ ] Mega Man Legends 2
 - [ ] Mega Man Powered Up
 - [ ] Paper Mario: Thousand Year Door (Switch remake)
-- [ ] Mario vs. Donkey Kong (Switch remake)
+- [x] Mario vs. Donkey Kong (Switch remake)
 - [ ] Final Fantasy 7 Rebirth
 - [ ] Super Mario RPG (Switch remake)
 - [ ] Kirby and the Forgotten Land
