@@ -32,10 +32,10 @@ Under consideration:
 # Video games to play in 2024
 
 - [ ] Mega Man X
+  - Many people's favorite game of all time 😯.
 - [ ] Mega Man Maverick Hunter X
   - This is a remake of Mega Man X for the PSP.
 - [ ] Mega Man 11
-  - Many people's favorite game of all time 😯.
 - [ ] Mega Man Legends 2
 - [ ] Mega Man Powered Up
 - [ ] Paper Mario: Thousand Year Door (Switch remake)
