@@ -28,6 +28,7 @@ Under consideration:
 - Cyberpunk 2077
 - Batman Arkham City
 - Portal 2
+- Final Fantasy VII
 
 # Video games to play in 2024
 
