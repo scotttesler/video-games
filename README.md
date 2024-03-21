@@ -29,6 +29,12 @@ Under consideration:
 - Batman Arkham City
 - Portal 2
 - Final Fantasy VII
+- Resident Evil Village
+
+# Games to replay because they're just so good
+
+- (Everything above)
+- Card Shark
 
 # Video games to play in 2024
 
@@ -36,21 +42,22 @@ Under consideration:
   - Many people's favorite game of all time 😯.
 - [ ] Mega Man Maverick Hunter X
   - This is a remake of Mega Man X for the PSP.
-- [ ] Mega Man 11
+- [x] Mega Man 11
 - [ ] Mega Man Legends 2
 - [ ] Mega Man Powered Up
 - [ ] Paper Mario: Thousand Year Door (Switch remake)
 - [x] Mario vs. Donkey Kong (Switch remake)
-- [ ] Final Fantasy 7 Rebirth
-- [ ] Super Mario RPG (Switch remake)
+- [x] Final Fantasy 7 Rebirth
+- [x] Super Mario RPG (Switch remake)
 - [ ] Kirby and the Forgotten Land
-- [ ] Link's Awakening (Switch remake)
-- [ ] Super Metroid
-- [ ] Donkey Kong Country: Tropical Freeze (Switch remake)
-- [ ] Hollow Knight
+- [x] Link's Awakening (Switch remake)
+- [x] Super Metroid
+- [x] Donkey Kong Country: Tropical Freeze (Switch remake)
+- [x] Hollow Knight
 - [ ] Cocoon
 - [ ] Cyberpunk 2077
-- [ ] Resident Evil 4 (PS5)
+- [x] Resident Evil 4 (PS5)
+- [x] Yakuza: Like a Dragon
 
 ---
 
