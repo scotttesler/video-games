@@ -58,6 +58,7 @@ Under consideration:
 - [ ] Cyberpunk 2077
 - [x] Resident Evil 4 (PS5)
 - [x] Yakuza: Like a Dragon
+- [ ] Elroy Hits the Pavement
 
 ---
 
