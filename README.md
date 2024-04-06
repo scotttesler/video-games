@@ -29,7 +29,6 @@ Under consideration:
 - Batman Arkham City
 - Portal 2
 - Final Fantasy VII
-- Resident Evil Village
 
 # Games to replay because they're just so good
 
