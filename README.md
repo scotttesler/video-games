@@ -68,6 +68,9 @@ Under consideration:
 
 Video games to check out
 
+- [ ] Space Wreck
+  - https://youtu.be/JFZ4KDqW07E?t=284
+- [ ] Trudograd
 - [ ] Pizza Tower
   - https://youtu.be/kab-fOsrq_Q
 - [ ] Sports Story
