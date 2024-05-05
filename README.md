@@ -68,6 +68,7 @@ Under consideration:
 
 Video games to check out
 
+- [ ] [Sand Land](https://playstation.com/games/sand-land)
 - [ ] Space Wreck
   - https://youtu.be/JFZ4KDqW07E?t=284
 - [ ] Trudograd
