@@ -58,9 +58,6 @@ Under consideration:
 - [x] Resident Evil 4 (PS5)
 - [x] Yakuza: Like a Dragon
 - [ ] Elroy Hits the Pavement
-
----
-
 - [x] Luigi's Mansion 3
 - [x] Pikmin 4
 
@@ -68,6 +65,9 @@ Under consideration:
 
 Video games to check out
 
+- [ ] El Paso, Elsewhere
+- [ ] viewfinder
+- [ ] Thronefall
 - [ ] [Sand Land](https://playstation.com/games/sand-land)
 - [ ] Space Wreck
   - https://youtu.be/JFZ4KDqW07E?t=284
