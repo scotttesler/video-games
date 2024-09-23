@@ -66,8 +66,9 @@ Under consideration:
 Video games to check out
 
 - [ ] El Paso, Elsewhere
-- [ ] viewfinder
+- [ ] Viewfinder
 - [ ] Thronefall
+- [ ] Yellow Taxi Goes Vroom
 - [ ] [Sand Land](https://playstation.com/games/sand-land)
 - [ ] Space Wreck
   - https://youtu.be/JFZ4KDqW07E?t=284
