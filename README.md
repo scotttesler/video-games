@@ -1,4 +1,4 @@
-# (Almost) perfect video games
+# Perfect video games
 
 Requirements:
 
@@ -34,12 +34,17 @@ Under consideration:
 
 - (Everything above)
 - Card Shark
+- Jedi Fallen Order
+- Jedi Survivor
+
+# Games to try on PS5 Pro
+
+- https://ign.com/articles/every-game-enhanced-for-ps5-pro
 
 # Video games to play in 2024
 
 - [ ] Avatar: Frontiers of Pandora
   - It's Digital Foundry's game of the year 2023.
-- [ ] Legend of Zelda: Echoes of Wisdom
 - [ ] Mega Man X
   - Many people's favorite game of all time 😯.
 - [ ] Mega Man Maverick Hunter X
@@ -63,6 +68,7 @@ Under consideration:
 - [ ] Elroy Hits the Pavement
 - [x] Luigi's Mansion 3
 - [x] Pikmin 4
+- [x] Star Wars Outlaws
 
 # Video games to check out
 
@@ -75,8 +81,8 @@ Video games to check out
 - [ ] Dragon Age: The Veilguard
 - [ ] [Space Wreck](https://youtu.be/JFZ4KDqW07E?t=284)
 - [ ] Trudograd
-- [ ] Pizza Tower
-  - https://youtu.be/kab-fOsrq_Q
+- [ ] [Pizza Tower](https://youtu.be/kab-fOsrq_Q)
+- [ ] Legend of Zelda: Echoes of Wisdom
 - [ ] Sports Story
 - [ ] [Pocket Card Jockey:Ride On!](https://nintendo.com/us/store/products/pocket-card-jockey-ride-on-switch/)
 - [ ] [Contra: Operation Gulaga](https://www.konami.com/games/contra/og/us/en/)
@@ -140,9 +146,6 @@ Video games to check out
 - [ ] Mushihime-sama Futari Black Label
 - [ ] Wild Hearts
 - [ ] Lies of P
-
----
-
 - [x] Dave the Diver (https://youtu.be/284XKh1lFHM)
 - [x] Thumper
 - [x] Loop Hero
