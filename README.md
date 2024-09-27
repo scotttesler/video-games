@@ -37,6 +37,9 @@ Under consideration:
 
 # Video games to play in 2024
 
+- [ ] Avatar: Frontiers of Pandora
+  - It's Digital Foundry's game of the year 2023.
+- [ ] Legend of Zelda: Echoes of Wisdom
 - [ ] Mega Man X
   - Many people's favorite game of all time 😯.
 - [ ] Mega Man Maverick Hunter X
@@ -69,9 +72,8 @@ Video games to check out
 - [ ] Viewfinder
 - [ ] Thronefall
 - [ ] Yellow Taxi Goes Vroom
-- [ ] [Sand Land](https://playstation.com/games/sand-land)
-- [ ] Space Wreck
-  - https://youtu.be/JFZ4KDqW07E?t=284
+- [ ] Dragon Age: The Veilguard
+- [ ] [Space Wreck](https://youtu.be/JFZ4KDqW07E?t=284)
 - [ ] Trudograd
 - [ ] Pizza Tower
   - https://youtu.be/kab-fOsrq_Q
