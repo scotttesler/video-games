@@ -78,6 +78,10 @@ Video games to check out
 - [ ] Viewfinder
 - [ ] Thronefall
 - [ ] Yellow Taxi Goes Vroom
+- [ ] V Rising
+  - 📹 [V Rising - Why this game is so good.](https://youtu.be/UGKEqx4dStA)
+- [ ] Manor Lords
+  - 📹 [One of the best games ever made! - Manor Lords](https://youtu.be/h0fDo0DTvL0)
 - [ ] Dragon Age: The Veilguard
 - [ ] [Space Wreck](https://youtu.be/JFZ4KDqW07E?t=284)
 - [ ] Trudograd
