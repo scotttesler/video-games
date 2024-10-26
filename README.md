@@ -74,6 +74,7 @@ Under consideration:
 
 Video games to check out
 
+- [ ] SONIC X SHADOW GENERATIONS
 - [ ] El Paso, Elsewhere
 - [ ] Viewfinder
 - [ ] Thronefall
