@@ -43,7 +43,7 @@ Under consideration:
 
 # Video games to play in 2024
 
-- [ ] Avatar: Frontiers of Pandora
+- [x] Avatar: Frontiers of Pandora
   - It's Digital Foundry's game of the year 2023.
 - [ ] Mega Man X
   - Many people's favorite game of all time 😯.
@@ -53,6 +53,8 @@ Under consideration:
 - [ ] Mega Man Legends 2
 - [ ] Mega Man Powered Up
 - [ ] Paper Mario: Thousand Year Door (Switch remake)
+- [ ] Luigi's Mansion 2
+- [ ] Monkey Ball
 - [x] Mario vs. Donkey Kong (Switch remake)
 - [x] Final Fantasy 7 Rebirth
 - [x] Super Mario RPG (Switch remake)
