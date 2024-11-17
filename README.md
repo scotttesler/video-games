@@ -1,46 +1,3 @@
-# Perfect video games
-
-Requirements:
-
-- Well paced. Has a constant feeling of progress.
-- The gameplay must feel good.
-  - Snappy combat system that keeps you on the edge of your seat.
-  - Challenging combat that you need to master.
-  - If no combat (like in Portal), there is some core gameplay mechanic that must be mastered.
-- Compelling story.
-
-Games:
-
-- Sekiro: Shadows Die Twice
-- Metroid Dread
-- Portal
-- Mirror's Edge
-- Enter the Gungeon
-- Ghost of Tsushima
-- Control
-- Half Life 2
-- The Last of Us
-- Bloodborne
-- Resident Evil Village
-
-Under consideration:
-
-- Cyberpunk 2077
-- Batman Arkham City
-- Portal 2
-- Final Fantasy VII
-
-# Games to replay because they're just so good
-
-- (Everything above)
-- Card Shark
-- Jedi Fallen Order
-- Jedi Survivor
-
-# Games to try on PS5 Pro
-
-- https://ign.com/articles/every-game-enhanced-for-ps5-pro
-
 # Video games to play in 2024
 
 - [x] Avatar: Frontiers of Pandora
@@ -191,8 +148,3 @@ Video games to check out
   > Challenge Enthusiasts
   > Tackling the most challenging games on Steam.
   > The most comprehensive list of challenging games, graded by their difficulty, and neatly tracked on this nifty little website.
-
----
-
-> [!NOTE]
-> Everything in this repo is for educational or research purposes only.
