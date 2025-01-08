@@ -1,34 +1,3 @@
-# Video games to play in 2024
-
-- [x] Avatar: Frontiers of Pandora
-  - It's Digital Foundry's game of the year 2023.
-- [ ] Mega Man X
-  - Many people's favorite game of all time 😯.
-- [ ] Mega Man Maverick Hunter X
-  - This is a remake of Mega Man X for the PSP.
-- [x] Mega Man 11
-- [ ] Mega Man Legends 2
-- [ ] Mega Man Powered Up
-- [ ] Paper Mario: Thousand Year Door (Switch remake)
-- [ ] Luigi's Mansion 2
-- [ ] Monkey Ball
-- [x] Mario vs. Donkey Kong (Switch remake)
-- [x] Final Fantasy 7 Rebirth
-- [x] Super Mario RPG (Switch remake)
-- [ ] Kirby and the Forgotten Land
-- [x] Link's Awakening (Switch remake)
-- [x] Super Metroid
-- [x] Donkey Kong Country: Tropical Freeze (Switch remake)
-- [x] Hollow Knight
-- [ ] Cocoon
-- [ ] Cyberpunk 2077
-- [x] Resident Evil 4 (PS5)
-- [x] Yakuza: Like a Dragon
-- [ ] Elroy Hits the Pavement
-- [x] Luigi's Mansion 3
-- [x] Pikmin 4
-- [x] Star Wars Outlaws
-
 # Video games to check out
 
 Video games to check out
