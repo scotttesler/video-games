@@ -2,6 +2,7 @@
 
 Video games to check out
 
+- [ ] Nine Sols
 - [ ] [Antonblast](https://youtu.be/hzT_Cspg9rA)
 - [ ] SONIC X SHADOW GENERATIONS
 - [ ] El Paso, Elsewhere
