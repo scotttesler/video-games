@@ -3,6 +3,7 @@
 Video games to check out
 
 - [ ] Nine Sols
+- [ ] [Metal Eden](https://youtu.be/N0DZAD_Nx6k)
 - [ ] [Antonblast](https://youtu.be/hzT_Cspg9rA)
 - [ ] SONIC X SHADOW GENERATIONS
 - [ ] El Paso, Elsewhere
