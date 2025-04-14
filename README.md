@@ -4,6 +4,7 @@ Video games to check out
 
 - [ ] Nine Sols
 - [ ] [Metal Eden](https://youtu.be/N0DZAD_Nx6k)
+- [ ] [Ufouria: The Saga 2](https://youtu.be/1tPcGQ1dsww)
 - [ ] [Antonblast](https://youtu.be/hzT_Cspg9rA)
 - [ ] SONIC X SHADOW GENERATIONS
 - [ ] El Paso, Elsewhere
