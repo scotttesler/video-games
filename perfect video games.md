@@ -7,7 +7,7 @@
   - If no combat (like in Portal), there is some core gameplay mechanic that must be mastered.
 - Compelling story.
 
-# Games:
+# Perfect games
 
 - Sekiro: Shadows Die Twice
 - Metroid Dread
@@ -21,14 +21,14 @@
 - Bloodborne
 - Resident Evil Village
 
-## Under consideration:
+## Under consideration
 
 - Cyberpunk 2077
 - Batman Arkham City
 - Portal 2
 - Final Fantasy VII
 
-## Games to replay because they're just so good
+## Games (not on the list) to replay because they're just so good
 
 - (Everything above)
 - Card Shark
