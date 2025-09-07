@@ -1,6 +1,8 @@
 # Video games to check out
 
-Video games to check out
+- Everything in [15 BEST Modern Arcade & Retro-Style Games Releasing This Year! - Retro Pocket](https://youtu.be/0dkLNz6oVqU)
+
+---
 
 - [ ] Nine Sols
 - [ ] [Metal Eden](https://youtu.be/N0DZAD_Nx6k)
