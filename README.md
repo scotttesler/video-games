@@ -5,6 +5,7 @@
 ---
 
 - [ ] Nine Sols
+- [ ] [Adventure of Samsara](https://youtu.be/6B3HwGV-l4Q)
 - [ ] [Metal Eden](https://youtu.be/N0DZAD_Nx6k)
 - [ ] [Ufouria: The Saga 2](https://youtu.be/1tPcGQ1dsww)
 - [ ] [Antonblast](https://youtu.be/hzT_Cspg9rA)
