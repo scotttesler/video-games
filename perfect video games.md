@@ -20,6 +20,7 @@
 - The Last of Us
 - Bloodborne
 - Resident Evil Village
+- Indiana Jones and the Great Circle
 
 ## Under consideration
 
