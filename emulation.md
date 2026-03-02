@@ -1,0 +1,3 @@
+- [BIOS files](https://emulation.gametechwiki.com/index.php/Emulator_files)
+  - From https://reddit.com/r/EmulationOnPC/comments/1aj96mp/how_to_download_a_pcsx2_bios_properly
+ - [ROMs](https://r-roms.github.io)
