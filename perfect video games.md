@@ -35,3 +35,4 @@
 - Card Shark
 - Jedi Fallen Order
 - Jedi Survivor
+- Need For Speed: Rivals
